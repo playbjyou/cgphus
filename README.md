@@ -1,2 +1,2 @@
 # cgphus
-Graducation Project
+\Project
